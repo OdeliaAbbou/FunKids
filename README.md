@@ -9,25 +9,31 @@ This app not only allows parents to search for and add their favorite spots but 
 ## Features
 
 - **Complete List View:** Users can view the entire list of available places, making it easy to explore and discover new favorites.
-- 
+  
 <img src="https://github.com/user-attachments/assets/1628fd66-9a4c-4bfd-9770-e34be939fa9d" alt="image" width="200">
+
 
 - **Firebase Authentication:** Utilizes Firebase Authentication for user management.
   
   <img width="200" alt="Connexion" src="https://github.com/user-attachments/assets/9e23b7e2-9670-4754-bffb-f5bfcc820f0a">
+  
 
 - **Place Search:** Uses a search bar to filter places by title or address.
  <img width="200" alt="Search" src="https://github.com/user-attachments/assets/90741517-9baf-448e-8bf3-fa6a5d2bb6df">
+ 
 
 - **Add New Places:** Allows adding places with a title, description, cost, address, and image.
  <img width="200" alt="Add" src="https://github.com/user-attachments/assets/5bb175d7-a34d-4a08-a8f6-562acfd8ce2b">
+ 
 
 - **Favorites Management:** Add places to favorites list.
  <img width="200" alt="Fav" src="https://github.com/user-attachments/assets/1fefe1fb-d5c6-4ac2-8dc4-4178c2e2855c">
+ 
 
 - **Detail View:** View the details of a selected place, with a delete option.
   
  <img width="200" alt="Place1" src="https://github.com/user-attachments/assets/d59a532c-0709-4bd1-9b49-258f31c12c0f">    <img width="195" alt="Place2" src="https://github.com/user-attachments/assets/8a58b158-40b0-41a7-a54c-2386f6b04e7f">
+ 
 
 - **Data Storage:** Stores place information in Firebase Realtime Database and images in Firebase Storage.
 
