@@ -21,7 +21,7 @@ This app not only allows parents to search for and add their favorite spots but 
 - **Favorites Management:** Add places to favorites list.
  <img width="200" alt="Fav" src="https://github.com/user-attachments/assets/1fefe1fb-d5c6-4ac2-8dc4-4178c2e2855c">
 
-- **Detail View:** View the details of a selected placewith a delete option.
+- **Detail View:** View the details of a selected place, with a delete option.
   
  <img width="200" alt="Place1" src="https://github.com/user-attachments/assets/d59a532c-0709-4bd1-9b49-258f31c12c0f">    <img width="195" alt="Place2" src="https://github.com/user-attachments/assets/8a58b158-40b0-41a7-a54c-2386f6b04e7f">
 
