@@ -15,7 +15,7 @@ This app not only allows parents to search for and add their favorite spots but 
 - **Place Search:** Uses a search bar to filter places by title or address.
  <img width="200" alt="Search" src="https://github.com/user-attachments/assets/90741517-9baf-448e-8bf3-fa6a5d2bb6df">
 
-- **Add New Places:** Allows adding places with a title, description, cost (integer), address, and image.
+- **Add New Places:** Allows adding places with a title, description, cost, address, and image.
  <img width="200" alt="Add" src="https://github.com/user-attachments/assets/5bb175d7-a34d-4a08-a8f6-562acfd8ce2b">
 
 - **Favorites Management:** Add places to favorites list.
