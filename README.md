@@ -8,7 +8,7 @@ This app not only allows parents to search for and add their favorite spots but 
 
 ## Features
 
-- **Complete List View:** Users can view the entire list of available places, making it easy to explore and discover new favorites.
+- **Complete List View:** Users can view the entire list of repertoried places, making it easy to explore and discover new favorites.
   
 <img src="https://github.com/user-attachments/assets/1628fd66-9a4c-4bfd-9770-e34be939fa9d" alt="image" width="200">
 
