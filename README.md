@@ -8,15 +8,15 @@ This app not only allows parents to search for and add their favorite spots but 
 
 ## Features
 
+- **Firebase Authentication:** Utilizes Firebase Authentication for user management.
+  
+  <img width="200" alt="Connexion" src="https://github.com/user-attachments/assets/9e23b7e2-9670-4754-bffb-f5bfcc820f0a">
+  
 - **Complete List View:** Users can view the entire list of repertoried places, making it easy to explore and discover new favorites.
   
 <img src="https://github.com/user-attachments/assets/1628fd66-9a4c-4bfd-9770-e34be939fa9d" alt="image" width="200">
 
 
-- **Firebase Authentication:** Utilizes Firebase Authentication for user management.
-  
-  <img width="200" alt="Connexion" src="https://github.com/user-attachments/assets/9e23b7e2-9670-4754-bffb-f5bfcc820f0a">
-  
 
 - **Place Search:** Uses a search bar to filter places by title or address.
  <img width="200" alt="Search" src="https://github.com/user-attachments/assets/90741517-9baf-448e-8bf3-fa6a5d2bb6df">
