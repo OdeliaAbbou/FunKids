@@ -7,8 +7,10 @@
 This app not only allows parents to search for and add their favorite spots but also to manage and organize these locations based on personal preferences. Users can include detailed descriptions, costs, addresses, and even images for each place, making it easier to plan outings and ensure a great time for the entire family.
 
 ## Features
-![image](https://github.com/user-attachments/assets/1628fd66-9a4c-4bfd-9770-e34be939fa9d)
 
+- **Complete List View:** Users can view the entire list of available places, making it easy to explore and discover new favorites.
+- 
+<img src="https://github.com/user-attachments/assets/1628fd66-9a4c-4bfd-9770-e34be939fa9d" alt="image" width="200">
 
 - **Firebase Authentication:** Utilizes Firebase Authentication for user management.
   
