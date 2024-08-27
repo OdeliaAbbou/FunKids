@@ -135,7 +135,7 @@ class AddController: UIViewController, UIImagePickerControllerDelegate, UINaviga
         let ref = Database.database().reference()
         let placeKey = title.lowercased().replacingOccurrences(of: " ", with: "_")
 
-        guard let costDouble = Double(cost) else {
+        guard let costInt = Int(cost) else { 
             showAlert(message: "Cost must be a valid number.")
             return
         }
@@ -143,9 +143,10 @@ class AddController: UIViewController, UIImagePickerControllerDelegate, UINaviga
         var placeData: [String: Any] = [
             "title": title,
             "description": description,
-            "cost": costDouble,
+            "cost": costInt,
             "address": address
         ]
+
 
         if let imageUrl = imageUrl {
             placeData["imageURL"] = imageUrl
