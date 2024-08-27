@@ -2,25 +2,27 @@
 
 ## Description
 
-**FunKids**, also known as **FunPlaces2**, is an iOS application developed in Swift with Firebase. This app allows users to search, add, and manage their favorite places. Users can also add descriptions, costs, addresses, and images for each place.
+**FunKids**, also known as **FunPlaces2**, is an iOS application designed to help parents easily discover new and exciting places for their children to enjoy various recreational activities. Whether you’re looking for a park, a playground, or a kid-friendly museum, FunKids makes it simple to find and explore venues that offer engaging and fun experiences for children.
+
+This app not only allows parents to search for and add their favorite spots but also to manage and organize these locations based on personal preferences. Users can include detailed descriptions, costs, addresses, and even images for each place, making it easier to plan outings and ensure a great time for the entire family.
 
 ## Features
 
 - **Firebase Authentication:** Utilizes Firebase Authentication for user management.
-  <img width="359" alt="Connexion" src="https://github.com/user-attachments/assets/9e23b7e2-9670-4754-bffb-f5bfcc820f0a">
+  <img width="200" alt="Connexion" src="https://github.com/user-attachments/assets/9e23b7e2-9670-4754-bffb-f5bfcc820f0a">
 
 - **Place Search:** Uses a search bar to filter places by title or address.
- <img width="361" alt="Search" src="https://github.com/user-attachments/assets/90741517-9baf-448e-8bf3-fa6a5d2bb6df">
+ <img width="200" alt="Search" src="https://github.com/user-attachments/assets/90741517-9baf-448e-8bf3-fa6a5d2bb6df">
 
 - **Add New Places:** Allows adding places with a title, description, cost (integer), address, and image.
- <img width="355" alt="Add" src="https://github.com/user-attachments/assets/5bb175d7-a34d-4a08-a8f6-562acfd8ce2b">
+ <img width="200" alt="Add" src="https://github.com/user-attachments/assets/5bb175d7-a34d-4a08-a8f6-562acfd8ce2b">
 
 - **Favorites Management:** Add and remove places from a favorites list.
- <img width="363" alt="Fav" src="https://github.com/user-attachments/assets/1fefe1fb-d5c6-4ac2-8dc4-4178c2e2855c">
+ <img width="200" alt="Fav" src="https://github.com/user-attachments/assets/1fefe1fb-d5c6-4ac2-8dc4-4178c2e2855c">
 
 - **Detail View:** View the details of a selected place.
-  <img width="363" alt="Place1" src="https://github.com/user-attachments/assets/d59a532c-0709-4bd1-9b49-258f31c12c0f">
-<img width="358" alt="Place2" src="https://github.com/user-attachments/assets/8a58b158-40b0-41a7-a54c-2386f6b04e7f">
+  <img width="200" alt="Place1" src="https://github.com/user-attachments/assets/d59a532c-0709-4bd1-9b49-258f31c12c0f">
+<img width="200" alt="Place2" src="https://github.com/user-attachments/assets/8a58b158-40b0-41a7-a54c-2386f6b04e7f">
 
 - **Data Storage:** Stores place information in Firebase Realtime Database and images in Firebase Storage.
 
