@@ -9,6 +9,7 @@ This app not only allows parents to search for and add their favorite spots but 
 ## Features
 
 - **Firebase Authentication:** Utilizes Firebase Authentication for user management.
+  
   <img width="200" alt="Connexion" src="https://github.com/user-attachments/assets/9e23b7e2-9670-4754-bffb-f5bfcc820f0a">
 
 - **Place Search:** Uses a search bar to filter places by title or address.
